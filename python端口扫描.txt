@@ -16,7 +16,7 @@ def test_port(dst,port):
         pass
 
 if __name__=='__main__':
-    dst = '111.13.101.208'
+    dst = '**.**.**.**'
 
     i = 0
     while i < 65536:
